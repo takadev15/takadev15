@@ -1,8 +1,8 @@
 # Hi, I'm Taka 👋
 
 #### 📖 **My Occupation**
-4th-year computer science student at [UPN Veteran Jawa Timur](https://upnjatim.ac.id). <br>
-Backend Engineer at [Aksamedia](https://aksamedia.co.id/).
+4th-year computer science student at [Universitas Negeri Jakarta](https://unj.ac.id). <br>
+Backend Engineer at [Ottodigital](https://otto.id/tentang-perusahaan/).
 
 #### 🛠️ **Tools I Use**
 ![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
