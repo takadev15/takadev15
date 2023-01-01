@@ -1,12 +1,12 @@
 # Hi, I'm Taka 👋
 
 #### 📖 **My Occupation**
-4th-year computer science student at [Universitas Negeri Jakarta](https://unj.ac.id). <br>
-Backend Engineer at [Ottodigital](https://otto.id/tentang-perusahaan/).
+last year cs student at [State University of Jakarta](https://unj.ac.id). <br>
+Software Engineer intern at [Ottodigital](https://otto.id/tentang-perusahaan/).
 
 #### 🛠️ **Tools I Use**
+![](http://img.shields.io/badge/-Go-white?logo=go&style=flat&logoColor=white&color=00ADD8)
+![](http://img.shields.io/badge/-Rust-white?logo=rust&style=flat&logoColor=white&color=000000)<br>
 ![](http://img.shields.io/badge/-JavaScript-white?logo=javascript&style=flat&logoColor=black&color=F7DF1E)
 ![](http://img.shields.io/badge/-TypeScript-white?logo=typescript&style=flat&logoColor=white&color=3178C6)
-![](http://img.shields.io/badge/-Rust-white?logo=rust&style=flat&logoColor=white&color=000000)
-![](http://img.shields.io/badge/-Go-white?logo=go&style=flat&logoColor=white&color=00ADD8)<br>
 ![](http://img.shields.io/badge/-Docker-white?logo=docker&style=flat&logoColor=white&color=2496ED)
