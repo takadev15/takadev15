@@ -1,8 +1,7 @@
 # Hi, I'm Taka 👋
 
 #### 📖 **My Occupation**
-last year cs student at [State University of Jakarta](https://unj.ac.id). <br>
-Software Engineer intern at [Ottodigital](https://otto.id/tentang-perusahaan/).
+last year cs student at [State University of Jakarta](https://unj.ac.id).
 
 #### 🛠️ **Tools I Use**
 ![](http://img.shields.io/badge/-Go-white?logo=go&style=flat&logoColor=white&color=00ADD8)
