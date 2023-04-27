@@ -1,7 +1,7 @@
 # Hi, I'm Taka 👋
 
 #### 📖 **My Occupation**
-Software Engineer Intern at [OY! Indonesia](https://github.com/oyindonesia).
+Software Engineer Intern at [OY! Indonesia](https://github.com/oyindonesia).<br>
 last year cs student at [State University of Jakarta](https://unj.ac.id).
 
 #### 🛠️ **Tools I've Used**
