@@ -2,7 +2,6 @@
 
 #### 📖 **My Occupation**
 Software Engineer, Building Financial Platform.<br>
-CS Fresh Graduate from [State University of Jakarta](https://unj.ac.id).
 
 #### 🛠️ **Tools I've Used**
 ![](http://img.shields.io/badge/-Go-white?logo=go&style=flat&logoColor=white&color=00ADD8)
